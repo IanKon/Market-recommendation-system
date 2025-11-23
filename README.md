@@ -1,7 +1,7 @@
 # Market-recommendation-system
 
 
-An AI-powered recommendation engine for online marketplaces that learns from user behavior and provides personalized product suggestions.
+A behavior-driven recommendation system for an online marketplace that generates personalized product suggestions using demographic profiles, purchase history, and dynamic preference updates — without machine learning.
 
 ## Overview
 
